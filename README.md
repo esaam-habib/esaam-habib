@@ -119,13 +119,22 @@
 <!-- Icons Resources -->
 <!-- https://devicon.dev/ -->
 <div class="footer" align="center" style="margin:15px;">
-    <a href="https://www.linkedin.com/in/esaam-habib-8858b4231/" target="_blank">
-        <img style="margin:0 8px 8px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40px"/>
-    </a>
-    <a href="mailto:esaamhabib2000@gmail.com" target="_blank">
-        <img style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531383-ddb2b774-5bb9-491c-b601-4a4a7d9792fb.svg" alt="gmail" width="40px"/>
-    </a>
+    <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 30px;">
+        <a href="mailto:esaamhabib2000@gmail.com" target="_blank">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="gmail" width="40px"/>
+        </a>
+        <a href="https://www.linkedin.com/in/esaam-habib-8858b4231/" target="_blank">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40px"/>
+        </a>
+        <a href="https://leetcode.com/m_aVERIcK/" target="_blank">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="leetcode" width="40px"/>
+        </a>
+        <a href="https://www.geeksforgeeks.org/user/esaamhabib2000/" target="_blank">
+            <img style="position: relative; top: -3px;" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="geeksforgeeks" width="40px"/>
+        </a>
+    </div>
 </div>
+
 <!-- End Footer -->
 
 
