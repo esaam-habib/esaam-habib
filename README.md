@@ -2,7 +2,7 @@
 
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-    Passionate Data Scientist and Machine Learning Engineer with a strong foundation in AI, Deep Learning, and NLP. Skilled in building and deploying scalable ML models with MLOps best practices. Experienced in cloud deployment using AWS and Docker for seamless automation. Proficient in Linux administration and shell scripting to optimize workflows and system performance. Adept at implementing Artificial Neural Networks (ANN) for complex problem-solving. A GitHub Actions enthusiast, streamlining CI/CD pipelines for efficient model deployment. Always eager to learn and innovate at the intersection of AI and cloud computing. Committed to driving data-driven solutions that make an impact. 🚀
+    Passionate Backend Development, Data Science and Machine Learning Engineer with a strong foundation in AI, Deep Learning, and NLP. Skilled in building and deploying scalable ML models with MLOps best practices. Experienced in cloud deployment using AWS and Docker for seamless automation. Proficient in Linux administration and shell scripting to optimize workflows and system performance. Adept at implementing Artificial Neural Networks (ANN) for complex problem-solving. A GitHub Actions enthusiast, streamlining CI/CD pipelines for efficient model deployment. Always eager to learn and innovate at the intersection of AI and cloud computing. Committed to driving data-driven solutions that make an impact. 🚀
 <br>
 <br>
 <div align="center">
